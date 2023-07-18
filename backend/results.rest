@@ -1,0 +1,57 @@
+{
+"totalUser": 44,
+"pageCount": 9,
+"next": {
+"page": 6
+},
+"prev": {
+"page": 4
+},
+"result": [
+{
+"_id": "649f2c2e39e11762d83222ac",
+"fname": "Belayneh",
+"lname": "Getachew",
+"email": "betenatefera@gmail.com",
+"password": "$2a$10$8DZwb/i4ALdlMcLva3qXLOkfTVDwV4LA8X/21CPkZGMcI1AhrnilS",
+"userType": "",
+"__v": 0
+},
+{
+"_id": "649f2c5539e11762d83222b0",
+"fname": "Belayneh",
+"lname": "Getachew",
+"email": "betenatefera1@gmail.com",
+"password": "$2a$10$wie/FsmPncN8SEjDFxMOOuDOyQcMUIWEV28hGxecNNgoGnDRwWLPu",
+"userType": "",
+"__v": 0
+},
+{
+"_id": "64a0640bdcb2661db478518f",
+"fname": "Belayneh",
+"lname": "Getachew",
+"email": "betena@gmail.com",
+"password": "$2a$10$HMDAXzWaBa10QK0qxrDCo.13rU8lCiOdpO9VyYBLz1IdK1PwF5Kju",
+"userType": "",
+"__v": 0
+},
+{
+"_id": "64a06793a6ad374233459460",
+"fname": "Belayneh",
+"lname": "Getachew",
+"email": "be@gmail.com",
+"password": "$2a$10$HFapvA0FTRFb6FazvsnaQeId3uTQ0NJeB4oypLLstaPtOTEhCSgku",
+"userType": "User",
+"__v": 0
+},
+{
+"_id": "64a54574ae28fd1319af9886",
+"fname": "tukello2",
+"lname": "testing2",
+"email": "test@email.com",
+"password": "$2a$10$3ioJT005bCymbSHdbm21D.nwOvr.pO5f/YV94Sv17n/KuLiPkohOy",
+"userType": "",
+"__v": 0
+}
+]
+}
